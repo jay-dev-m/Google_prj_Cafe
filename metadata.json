@@ -1,0 +1,6 @@
+{
+  "name": "The Café Companion",
+  "description": "Artisanal sensory intelligence, smart ordering, in-café communal presence, live brew progression telemetry, and barista command console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
